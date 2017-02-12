@@ -1,3 +1,2 @@
 # school
-This is a project for my kids lessons test
-
+This is a project for my kids lessons
